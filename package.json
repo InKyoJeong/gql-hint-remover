@@ -1,13 +1,10 @@
 {
   "name": "gql-hint-remover",
   "version": "1.0.0",
-  "description": "",
+  "description": "Control MutationObserver for CodeMirror hints.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "InKyoJeong",
-  "license": "ISC",
-  "dependencies": {
-    "chrome-types": "^0.1.344"
-  }
+  "license": "ISC"
 }
