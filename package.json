@@ -1,11 +1,13 @@
 {
-  "name": "hide-gql-hint",
+  "name": "gql-hint-remover",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "InKyoJeong",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chrome-types": "^0.1.344"
+  }
 }
