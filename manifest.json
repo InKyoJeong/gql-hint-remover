@@ -3,7 +3,7 @@
   "name": "GQL Hint Remover",
   "description": "Control MutationObserver for CodeMirror hints.",
   "version": "1.0",
-  "permissions": ["storage", "activeTab"],
+  "permissions": ["storage"],
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
